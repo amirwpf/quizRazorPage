@@ -1,0 +1,35 @@
+﻿@page "/EmployeeList"
+@model WebApplication_razor_temp.Pages.User.IndexModel
+@{
+	ViewData["Title"] = "index";
+	
+}
+
+<style>
+
+</style>
+<h1> Users </h1>
+
+<div style="display:flex;" class="card-deck">
+	@foreach(var emp in Model.Users)
+	{
+		var photoPath = "~/images/" + (emp.PhotoPath ?? "emp3.png");
+
+		<div class="card m-3" style="width:30%; min-width: 18rem; max-width:30.5%;">
+			<div class="card-header"> 
+				<h3>@emp.Name</h3>
+			</div>
+
+			<img style="height:200px; width:auto;" class="card-img-top" src="@photoPath"
+			asp-append-version ="true" />
+
+			<div class="card-footer text-center">
+				<a asp-page="/User/Detail" asp-route-ID="@emp.Id" class="btn btn-primary m-1">View</a>
+				<a href="#" class="btn btn-secondary m-1">Edit</a>
+				<a href="#" class="btn btn-danger m-1">Delete</a>
+			</div>
+		</div>
+
+	}
+
+</div>

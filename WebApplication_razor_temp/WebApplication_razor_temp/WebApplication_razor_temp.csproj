@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.8" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ClassLibrary_razor_temp.Services\ClassLibrary_razor_temp.Services.csproj" />
+    <ProjectReference Include="..\ClassLibrary_tazor_temp.Models\ClassLibrary_razor_temp.Models.csproj" />
+  </ItemGroup>
+
+</Project>

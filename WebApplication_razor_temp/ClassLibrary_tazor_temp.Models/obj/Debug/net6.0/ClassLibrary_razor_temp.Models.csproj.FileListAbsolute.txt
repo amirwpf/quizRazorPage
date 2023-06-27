@@ -1,0 +1,12 @@
+F:\software\exe\visual studio 2022\maktabSh\backend\temp\WebApplication_razor_temp\ClassLibrary_tazor_temp.Models\bin\Debug\net6.0\ClassLibrary_razor_temp.Models.deps.json
+F:\software\exe\visual studio 2022\maktabSh\backend\temp\WebApplication_razor_temp\ClassLibrary_tazor_temp.Models\bin\Debug\net6.0\ClassLibrary_razor_temp.Models.dll
+F:\software\exe\visual studio 2022\maktabSh\backend\temp\WebApplication_razor_temp\ClassLibrary_tazor_temp.Models\bin\Debug\net6.0\ClassLibrary_razor_temp.Models.pdb
+F:\software\exe\visual studio 2022\maktabSh\backend\temp\WebApplication_razor_temp\ClassLibrary_tazor_temp.Models\obj\Debug\net6.0\ClassLibrary_razor_temp.Models.csproj.AssemblyReference.cache
+F:\software\exe\visual studio 2022\maktabSh\backend\temp\WebApplication_razor_temp\ClassLibrary_tazor_temp.Models\obj\Debug\net6.0\ClassLibrary_razor_temp.Models.GeneratedMSBuildEditorConfig.editorconfig
+F:\software\exe\visual studio 2022\maktabSh\backend\temp\WebApplication_razor_temp\ClassLibrary_tazor_temp.Models\obj\Debug\net6.0\ClassLibrary_razor_temp.Models.AssemblyInfoInputs.cache
+F:\software\exe\visual studio 2022\maktabSh\backend\temp\WebApplication_razor_temp\ClassLibrary_tazor_temp.Models\obj\Debug\net6.0\ClassLibrary_razor_temp.Models.AssemblyInfo.cs
+F:\software\exe\visual studio 2022\maktabSh\backend\temp\WebApplication_razor_temp\ClassLibrary_tazor_temp.Models\obj\Debug\net6.0\ClassLibrary_razor_temp.Models.csproj.CoreCompileInputs.cache
+F:\software\exe\visual studio 2022\maktabSh\backend\temp\WebApplication_razor_temp\ClassLibrary_tazor_temp.Models\obj\Debug\net6.0\ClassLibrary_razor_temp.Models.dll
+F:\software\exe\visual studio 2022\maktabSh\backend\temp\WebApplication_razor_temp\ClassLibrary_tazor_temp.Models\obj\Debug\net6.0\refint\ClassLibrary_razor_temp.Models.dll
+F:\software\exe\visual studio 2022\maktabSh\backend\temp\WebApplication_razor_temp\ClassLibrary_tazor_temp.Models\obj\Debug\net6.0\ClassLibrary_razor_temp.Models.pdb
+F:\software\exe\visual studio 2022\maktabSh\backend\temp\WebApplication_razor_temp\ClassLibrary_tazor_temp.Models\obj\Debug\net6.0\ref\ClassLibrary_razor_temp.Models.dll

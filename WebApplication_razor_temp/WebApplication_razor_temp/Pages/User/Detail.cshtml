@@ -1,0 +1,32 @@
+﻿@page
+@model WebApplication_razor_temp.Pages.User.DetailModel
+@{
+	ViewData["Title"] = "index";
+	var photoPath = "~/images/" + (Model.user.PhotoPath ?? "emp3.png");
+}
+
+<div class="row justify-content-center m-3">
+	<div class="col-sm-8">
+		<div class="card-header">
+			<h1>@Model.user.Name</h1>
+		</div>
+
+		<div class="card-body text-center">
+			<img src="@photoPath" class="card-img-top" asp-append-version="true"/>
+
+			<h4>User ID : @Model.user.Id</h4>
+			<h4>User Email : @Model.user.Email</h4>
+			<h4>User Department : @Model.user.Department</h4>
+
+		</div>
+
+		<div class="card-footer text-center">
+			<a asp-page="index" class="btn btn-primary">Back</a>
+			<a asp-page="#" class="btn btn-secondary">Back</a>
+			<a asp-page="#" class="btn btn-danger">Delete </a>
+			
+		</div>
+
+	</div>
+
+</div>

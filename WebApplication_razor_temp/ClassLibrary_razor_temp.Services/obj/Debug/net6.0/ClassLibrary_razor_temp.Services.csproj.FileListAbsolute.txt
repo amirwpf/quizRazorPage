@@ -1,0 +1,15 @@
+F:\software\exe\visual studio 2022\maktabSh\backend\temp\WebApplication_razor_temp\ClassLibrary_razor_temp.Services\bin\Debug\net6.0\ClassLibrary_razor_temp.Services.deps.json
+F:\software\exe\visual studio 2022\maktabSh\backend\temp\WebApplication_razor_temp\ClassLibrary_razor_temp.Services\bin\Debug\net6.0\ClassLibrary_razor_temp.Services.dll
+F:\software\exe\visual studio 2022\maktabSh\backend\temp\WebApplication_razor_temp\ClassLibrary_razor_temp.Services\bin\Debug\net6.0\ClassLibrary_razor_temp.Services.pdb
+F:\software\exe\visual studio 2022\maktabSh\backend\temp\WebApplication_razor_temp\ClassLibrary_razor_temp.Services\bin\Debug\net6.0\ClassLibrary_razor_temp.Models.dll
+F:\software\exe\visual studio 2022\maktabSh\backend\temp\WebApplication_razor_temp\ClassLibrary_razor_temp.Services\bin\Debug\net6.0\ClassLibrary_razor_temp.Models.pdb
+F:\software\exe\visual studio 2022\maktabSh\backend\temp\WebApplication_razor_temp\ClassLibrary_razor_temp.Services\obj\Debug\net6.0\ClassLibrary_razor_temp.Services.csproj.AssemblyReference.cache
+F:\software\exe\visual studio 2022\maktabSh\backend\temp\WebApplication_razor_temp\ClassLibrary_razor_temp.Services\obj\Debug\net6.0\ClassLibrary_razor_temp.Services.GeneratedMSBuildEditorConfig.editorconfig
+F:\software\exe\visual studio 2022\maktabSh\backend\temp\WebApplication_razor_temp\ClassLibrary_razor_temp.Services\obj\Debug\net6.0\ClassLibrary_razor_temp.Services.AssemblyInfoInputs.cache
+F:\software\exe\visual studio 2022\maktabSh\backend\temp\WebApplication_razor_temp\ClassLibrary_razor_temp.Services\obj\Debug\net6.0\ClassLibrary_razor_temp.Services.AssemblyInfo.cs
+F:\software\exe\visual studio 2022\maktabSh\backend\temp\WebApplication_razor_temp\ClassLibrary_razor_temp.Services\obj\Debug\net6.0\ClassLibrary_razor_temp.Services.csproj.CoreCompileInputs.cache
+F:\software\exe\visual studio 2022\maktabSh\backend\temp\WebApplication_razor_temp\ClassLibrary_razor_temp.Services\obj\Debug\net6.0\ClassLibrary_razor_temp.Services.csproj.CopyComplete
+F:\software\exe\visual studio 2022\maktabSh\backend\temp\WebApplication_razor_temp\ClassLibrary_razor_temp.Services\obj\Debug\net6.0\ClassLibrary_razor_temp.Services.dll
+F:\software\exe\visual studio 2022\maktabSh\backend\temp\WebApplication_razor_temp\ClassLibrary_razor_temp.Services\obj\Debug\net6.0\refint\ClassLibrary_razor_temp.Services.dll
+F:\software\exe\visual studio 2022\maktabSh\backend\temp\WebApplication_razor_temp\ClassLibrary_razor_temp.Services\obj\Debug\net6.0\ClassLibrary_razor_temp.Services.pdb
+F:\software\exe\visual studio 2022\maktabSh\backend\temp\WebApplication_razor_temp\ClassLibrary_razor_temp.Services\obj\Debug\net6.0\ref\ClassLibrary_razor_temp.Services.dll
